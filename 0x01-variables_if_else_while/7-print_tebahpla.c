@@ -4,6 +4,7 @@
  *
  * Return: 0 (success)
  */
+
 int main(void)
 {
 	char c;
@@ -12,7 +13,7 @@ int main(void)
 	while
 		(c >= 'a') {
 			putchar(c);
-			c++;
+			c--;
 		}
 	putchar('\n');
 	return (0);
