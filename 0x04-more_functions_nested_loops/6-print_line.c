@@ -1,4 +1,4 @@
-#include "main.h"
+#inc#include "main.h"
 
 /**
  * print_line - draws a stright line according to parameter
@@ -23,4 +23,3 @@ void print_line(int n)
 	_putchar('\n');
 	}
 }
-	
